@@ -1,29 +1,40 @@
-# KnockKnock
+# Knock Knock
+
+### 스케줄 보드와 달력으로 편리하게 일정을 관리할 수 있는 모바일 애플리케이션
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/4-Others/4-Others-readmeImg/main/mainImage.png" alt="roobits">
+</div>
+
+### iOS : 
+### Android : 
+
+---
+
+<br/>
+
+## 🐶 About Knock Knock
+
+ #### 노크노크는 스케줄 보드와 달력으로 관리하는 모바일 스케줄 플래너 애플리케이션입니다.
+
+### 우리동네 약국 지도 특징
+- **`팀 명` :**  💪🏼 4Others 👨‍👦‍👦
+- **`프로젝트 명` :** Knock Knock!
+- **`프로젝트 기간` :** 2023.05 - 2023.11
+- **`한줄 소개` :** Knock Knock !  일상 속 크고 작은 일정들이 반가운 손님의 노크 소리처럼 우리에게 다가와 <br/>
+기분 좋은 하루를 보낼 수 있게 도와주는 일정 관리 모바일 어플리케이션
+- **`팀원` :** 김준희(팀장), 김영재, 김태형, 현지원
+- **`사용자 요구사항 정의서`:**  
+   <img width="100%" src="https://raw.githubusercontent.com/4-Others/4-Others-readmeImg/main/스크린샷 2023-11-20 오후 2.52.38.png" alt="roobits">
+    <br/>
+- **`개발자 테스트 체크리스트`:** 
+   <img width="100%" src="https://raw.githubusercontent.com/4-Others/4-Others-readmeImg/main/스크린샷 2023-11-20 오후 3.48.30.png" alt="roobits">
+
+<br/>
 
 | AppDev | youngjae7133@gmail.com, modac0302@gmail.com |
 | --- | --- |
 | ServerDev | adsds126@gmail.com |
 
-<br/>
-
-<div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/4-Others/4-Others-readmeImg/main/mainImage.png" alt="roobits">
-</div>
-
-<br/>
-
-- **`팀 명` :**  💪🏼 4Others 👨‍👦‍👦
-- **`프로젝트 명` :** KnockKnock
-- **`프로젝트 기간` :** 2023.05 - 2023.11
-- **`한줄 소개` :** KnockKnock !  일상 속 크고 작은 일정들이 반가운 손님의 노크 소리처럼 우리에게 다가와
-기분 좋은 하루를 보낼 수 있게 도와주는 일정 관리 모바일 어플리케이션
-- **`팀원` :** 김준희(팀장), 김영재, 김태형, 현지원
-- **`사용자 요구사항 정의서`:**
-   <img width="100%" src="https://raw.githubusercontent.com/4-Others/4-Others-readmeImg/main/스크린샷 2023-11-20 오후 2.52.38.png" alt="roobits">
-- **`개발자 테스트 체크리스트`:**
-   <img width="100%" src="https://raw.githubusercontent.com/4-Others/4-Others-readmeImg/main/스크린샷 2023-11-20 오후 3.48.30.png" alt="roobits">
-
-<br/>
 
 ## 💼 Team
 

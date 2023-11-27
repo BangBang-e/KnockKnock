@@ -5,7 +5,7 @@
   <img width="100%" src="https://raw.githubusercontent.com/4-Others/4-Others-readmeImg/main/mainImage.png" alt="roobits">
 </div>
 
-### iOS : 
+### iOS : https://apps.apple.com/us/app/knock-knock/id6471225726
 ### Android : 
 
 ---
@@ -29,41 +29,30 @@
 - **`개발자 테스트 체크리스트`:** 
    <img width="100%" src="https://raw.githubusercontent.com/4-Others/4-Others-readmeImg/main/스크린샷 2023-11-20 오후 3.48.30.png" alt="roobits">
 
+---
+
 <br/>
 
-| AppDev | youngjae7133@gmail.com, modac0302@gmail.com |
-| --- | --- |
-| ServerDev | adsds126@gmail.com |
+## 🌟 Screen
 
+| 로그인 / 회원가입 스크린 | 스케줄 등록 스크린 | 스케줄 보드 스크린 |
+| -------------- | -------------- | -------------- |
+| <img width="100%" src="https://github.com/4-Others/4-Others-readmeImg/blob/main/screenshot01.png"/> | <img width="100%" src="https://github.com/4-Others/4-Others-readmeImg/blob/main/screenshot02.png"/> | <img width="100%" src="https://github.com/4-Others/4-Others-readmeImg/blob/main/screenshot03.png"/> |
+| 캘린더 스크린 | 알림 스크린 | 검색 스크린 |
+| <img width="100%" src="https://github.com/4-Others/4-Others-readmeImg/blob/main/screenshot04.png"/> | <img width="100%" src="https://github.com/4-Others/4-Others-readmeImg/blob/main/screenshot05.png"/> | <img width="100%" src="https://github.com/4-Others/4-Others-readmeImg/blob/main/screenshot06.png"/> |
+
+---
+
+<br/>
 
 ## 💼 Team
 
 | **김준희 (FE)** | **김영재 (FE)** | **김태형 (BE)** | **현지원 (BE)** |
 | -------------- | -------------- | -------------- | -------------- |
 | ·App design & Style Guide 제작<br/> ·App UI&UX 구현<br/> ·Multy Dots, 다중 일정 선택을 제공하는 커스텀 캘린더 구현<br/> ·회원가입 프로세스 구축 및 기능 구현, 에러 핸들링 시각화<br/> ·Google / Kakao 소셜 로그인 및 일반로그인 구현<br/> ·회원데이터 / 일정데이터,전역상태 관리 및 CRUD 구현<br/> ·기간 및 일정 선택 일정 데이터 검색 기능 구현<br/> | ·App design & Style Guide 제작<br/> ·스택과 탭 Navigation의 조합을 사용하며 App 구조 구축<br/> ·App UI&UX 구현<br/> ·보드를 조회할 수 있는 캐러셀 및 상단탭 구현<br/> ·보드 및 일정등록 프로세스 구축 및 CRUD 기능 구현<br/> ·Google / Kakao / Apple 소셜 로그인 구현<br/> ·보드데이터 / 일정데이터 전역상태 관리<br/> | ·Local User, Oauth2 User api 개발<br/> ·AWS EC2에 서버 배포<br/> ·도메인 구매 및 연결<br/> ·HTTPS 적용(ACM, Route 53)<br/> ·GitHub Actions를 활용한 CI/CD 구현<br/> ·Docker 이미지 빌드 및 컨테이너 생성<br/> ·RDS를 이용한 MySQL 데이터베이스 관리<br/> | ·지원님 작업 내용<br/> |
+| ·e-mail: modac0302@gmail.com <br/>·Github: [@modac0](https://github.com/modac0)   | ·e-mail: youngjae7133@gmail.com <br/>·Github: [@BangBang-e](https://github.com/BangBang-e) | ·e-mail: adsds126@gmail.com <br/>·Github: [@adsds126](https://github.com/adsds126) | ·e-mail: <br/>·Github: [@gr8g1](https://github.com/gr8g1) |
 
-| name | Github                                     |
-|:----:|:-------------------------------------------|
-| 김준희  | [@modac0](https://github.com/modac0)       |
-| 김영재  | [@BangBang-e](https://github.com/BangBang-e)|
-| 김태형  | [@adsds126](https://github.com/adsds126)   |
-| 현지원  | [@gr8g1](https://github.com/gr8g1)         |
-
-<br/>
-
-### <span style=""> ⚙️ **Stack** </span>
-
-<br/>
-
-## 🌟 Screen
-
-| 로그인 / 회원가입 스크린 | 스케줄 등록 스크린 |
-| -------------- | -------------- |
-| <img width="100%" src="https://github.com/4-Others/4-Others-readmeImg/blob/main/screenshot01.png"/> | <img width="100%" src="https://github.com/4-Others/4-Others-readmeImg/blob/main/screenshot02.png"/> |
-| 보드 리스트 스크린 | 캘린더 스크린 |
-| <img width="100%" src="https://github.com/4-Others/4-Others-readmeImg/blob/main/screenshot03.png"/> | <img width="100%" src="https://github.com/4-Others/4-Others-readmeImg/blob/main/screenshot04.png"/> |
-| 알림 스크린 | 검색 스크린 |
-| <img width="100%" src="https://github.com/4-Others/4-Others-readmeImg/blob/main/screenshot05.png"/> | <img width="100%" src="https://github.com/4-Others/4-Others-readmeImg/blob/main/screenshot06.png"/> |
+---
 
 <br/>
 
@@ -75,9 +64,7 @@
 **Flow**
 작성중
 
-
-
-
+---
 
 <br/>
 
@@ -90,11 +77,20 @@
 [User apis](https://documenter.getpostman.com/view/24687418/2s9Y5eNzLG) <br/>
 [Schedule, tags, notification apis](https://documenter.getpostman.com/view/5042575/2s946k7BFe#4d553411-90b8-4a36-b0f3-be4d11692bb3)
 
+---
+
 <br/>
 
-## 📎 Git
+## 👩‍💻Tech Stack
 
-### 🌲 Branch
+### **Back-end & Front-end** 
+작성 중
+
+---
+
+<br/>
+
+## 🌲 Branch
 
 `main` : 릴리즈 환경 브랜치입니다.  
 `dev` :  디버그 환경 브랜치입니다.  
@@ -113,15 +109,22 @@ main <- dev : 김준희, 김영재, 김태형, 현지원
 dev <- feat : 김준희, 김영재, 김태형, 현지원
 ```
 
+---
+
 <br/>
 
-### ✉️ Commit  Message
+## ✨Git Commit & PR Message
 
-| Message | 설명 [ 깃모지를 활용한 커밋 메세지 작성 ]            |
-|:-------:|:-------------------------------------|
-|   🎨    | Improve Structure/Format of the code |
-|   🔨    | Add or Update Development scripts    |
-|   🚨    | Fix compiler/Linter warnings         |
-|   📝    | Add or Update Documentation          |
-|   🔥    | Remove code or files                 |
-|   🎉    | Begin a project                      |
+| 태그이름 | 설명                                                  |
+| -------- | ----------------------------------------------------- |
+| FE_     | 프론트엔드 prefix                                      |
+| BE_     | 백엔드 prefix                                     |
+| Feat     | 새로운 기능, 특징 추가                                      |
+| Style     | 스타일링                                      |
+| Fix      |  버그 수정                                             |
+| Refactor   | 리팩토링                                 |
+| Test    | 테스트 코드 수정, 누락된 테스트를 추가할 때, 리팩토링 테스트 추가 |
+| refactor | 코드 리팩토링                                         |
+| Chore     | 빌드 업무 수정, 패키지 매니저 수정                                 |
+| Init     | 초기 설정               |
+| Docs     | 문서 설정               |

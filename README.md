@@ -14,13 +14,11 @@
 
 ## 🌟 Preview
 
-| 로그인 / 회원가입 스크린 | 스케줄 등록 스크린 | 스케줄 보드 스크린 |
-| -------------- | -------------- | -------------- |
-| https://github.com/BangBang-e/KnockKnock/assets/107192580/5f3ad83f-b4b1-4327-b110-45aa74c7e797 | https://github.com/BangBang-e/KnockKnock/assets/107192580/d62fa2b4-5b4e-4caa-b5f2-e853d6151ecd | https://github.com/BangBang-e/KnockKnock/assets/107192580/7b8e7a42-f665-4d39-b828-550bbf9f1e39 |
+https://github.com/BangBang-e/KnockKnock/assets/107192580/82b29109-078f-4bc1-a598-c21fa51b331d
 
+https://github.com/BangBang-e/KnockKnock/assets/107192580/6521e2a9-09fb-4f74-ab73-43bf31252bc5
 
-https://github.com/BangBang-e/KnockKnock/assets/107192580/2d356a3b-60d7-438d-a337-2f8337e99bb3
-
+https://github.com/BangBang-e/KnockKnock/assets/107192580/5b1d6719-3fd5-4905-b0d1-42e84dc8d462
 
 ---
 
@@ -28,7 +26,7 @@ https://github.com/BangBang-e/KnockKnock/assets/107192580/2d356a3b-60d7-438d-a33
 
 ## 🐶 About Knock Knock
 
- #### 노크노크는 스케줄 보드와 달력으로 관리하는 모바일 스케줄 플래너 애플리케이션입니다.
+ #### 📌 노크노크는 스케줄 보드와 달력으로 관리하는 모바일 스케줄 플래너 애플리케이션입니다. 📌
 
 ### 우리동네 약국 지도 특징
 - **`팀 명` :**  💪🏼 4Others 👨‍👦‍👦

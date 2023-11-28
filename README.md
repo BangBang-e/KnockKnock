@@ -14,11 +14,9 @@
 
 ## 🌟 Preview
 
-https://github.com/BangBang-e/KnockKnock/assets/107192580/82b29109-078f-4bc1-a598-c21fa51b331d
-
-https://github.com/BangBang-e/KnockKnock/assets/107192580/6521e2a9-09fb-4f74-ab73-43bf31252bc5
-
-https://github.com/BangBang-e/KnockKnock/assets/107192580/5b1d6719-3fd5-4905-b0d1-42e84dc8d462
+| 스케줄 보드 | 스케줄 등록 | 달 력 |
+| -------------- | -------------- | -------------- |
+| ![Schedule_Board](https://github.com/BangBang-e/KnockKnock/assets/107192580/227814b1-f60d-49d1-b7a4-daaf5beb6c93) | ![Create_Schedule](https://github.com/BangBang-e/KnockKnock/assets/107192580/b98dc939-22b2-45cd-93c5-cbafe1860fca) | ![Calendar](https://github.com/BangBang-e/KnockKnock/assets/107192580/46548e02-aa2e-4e5f-85c8-48ba8ccb4646) |
 
 ---
 
@@ -41,15 +39,21 @@ https://github.com/BangBang-e/KnockKnock/assets/107192580/5b1d6719-3fd5-4905-b0d
 - **`개발자 테스트 체크리스트`:** 
    <img width="100%" src="https://raw.githubusercontent.com/4-Others/4-Others-readmeImg/main/스크린샷 2023-11-20 오후 3.48.30.png" alt="roobits">
 
+---
+
 <br/>
 
-### Screen Shots
+## 🚀 UX/UI
 
 | 로그인 / 회원가입 스크린 | 스케줄 등록 스크린 | 스케줄 보드 스크린 |
 | -------------- | -------------- | -------------- |
 | <img width="100%" src="https://github.com/4-Others/4-Others-readmeImg/blob/main/screenshot01.png"/> | <img width="100%" src="https://github.com/4-Others/4-Others-readmeImg/blob/main/screenshot02.png"/> | <img width="100%" src="https://github.com/4-Others/4-Others-readmeImg/blob/main/screenshot03.png"/> |
+| 노크노크 계정이나 구글/네이버로 로그인을 할 수 있습니다. (iOS에서는 애플 로그인 가능) | 다양한 인터페이스로 간편하게 스케줄을 등록할 수 있습니다. | 보드 별로 등록한 스케줄을 조회하거나 수정, 삭제할 수 있습니다. |
+
 | 캘린더 스크린 | 알림 스크린 | 검색 스크린 |
+| -------------- | -------------- | -------------- |
 | <img width="100%" src="https://github.com/4-Others/4-Others-readmeImg/blob/main/screenshot04.png"/> | <img width="100%" src="https://github.com/4-Others/4-Others-readmeImg/blob/main/screenshot05.png"/> | <img width="100%" src="https://github.com/4-Others/4-Others-readmeImg/blob/main/screenshot06.png"/> |
+| 달력을 통해 날짜별로 스케줄을 조회할 수 있습니다. | 알림이 설정된 스케줄의 알림을 확인할 수 있습니다. | 키워드 및 기간으로 등록한 스케줄을 검색할 수 있습니다. |
 
 ---
 
@@ -61,18 +65,6 @@ https://github.com/BangBang-e/KnockKnock/assets/107192580/5b1d6719-3fd5-4905-b0d
 | -------------- | -------------- | -------------- | -------------- |
 | ·App design & Style Guide 제작<br/> ·App UI&UX 구현<br/> ·Multy Dots, 다중 일정 선택을 제공하는 커스텀 캘린더 구현<br/> ·회원가입 프로세스 구축 및 기능 구현, 에러 핸들링 시각화<br/> ·Google / Kakao 소셜 로그인 및 일반로그인 구현<br/> ·회원데이터 / 일정데이터,전역상태 관리 및 CRUD 구현<br/> ·기간 및 일정 선택 일정 데이터 검색 기능 구현<br/> | ·App design & Style Guide 제작<br/> ·스택과 탭 Navigation의 조합을 사용하며 App 구조 구축<br/> ·App UI&UX 구현<br/> ·보드를 조회할 수 있는 캐러셀 및 상단탭 구현<br/> ·보드 및 일정등록 프로세스 구축 및 CRUD 기능 구현<br/> ·Google / Kakao / Apple 소셜 로그인 구현<br/> ·보드데이터 / 일정데이터 전역상태 관리<br/> | ·Local User, Oauth2 User api 개발<br/> ·AWS EC2에 서버 배포<br/> ·도메인 구매 및 연결<br/> ·HTTPS 적용(ACM, Route 53)<br/> ·GitHub Actions를 활용한 CI/CD 구현<br/> ·Docker 이미지 빌드 및 컨테이너 생성<br/> ·RDS를 이용한 MySQL 데이터베이스 관리<br/> | ·지원님 작업 내용<br/> |
 | ·e-mail: modac0302@gmail.com <br/>·Github: [@modac0](https://github.com/modac0)   | ·e-mail: youngjae7133@gmail.com <br/>·Github: [@BangBang-e](https://github.com/BangBang-e) | ·e-mail: adsds126@gmail.com <br/>·Github: [@adsds126](https://github.com/adsds126) | ·e-mail: <br/>·Github: [@gr8g1](https://github.com/gr8g1) |
-
----
-
-<br/>
-
-## 👩🏻‍💻 FE flow
-
-**Flow**
-작성중
-
-**화면정의서**
-작성중
 
 ---
 
@@ -93,8 +85,7 @@ https://github.com/BangBang-e/KnockKnock/assets/107192580/5b1d6719-3fd5-4905-b0d
 
 ## 👩‍💻 Tech Stack
 
-### **Back-end & Front-end** 
-![tech](https://github.com/BangBang-e/KnockKnock/assets/107192580/43f201f2-600e-4436-9e1c-8b7aa9b52543)
+![tech](https://github.com/BangBang-e/KnockKnock/assets/107192580/9b79022c-af83-46b0-bd01-6dba27a280bd)
 
 ---
 
